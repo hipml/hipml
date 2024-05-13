@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- :hammer: currently working on parameter efficient fine tuning of large language models
+- :video_game: indie game dev working with godot, blender, and an open stack
+- :hammer_and_wrench: free software advocate
+- :penguin: I use arch, btw
 <!--
 **superimpp/superimpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

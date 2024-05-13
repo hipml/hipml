@@ -1,9 +1,10 @@
-### Hi there 👋
+### hey there! 👋
 
-- :hammer: currently working on parameter efficient fine tuning of large language models
-- :video_game: indie game dev working with godot, blender, and an open stack
-- :hammer_and_wrench: free software advocate
+- :telescope: I'm currently researching parameter efficient fine tuning techniques on large language models
+- :video_game: Indie game dev working with godot, blender, and an open stack
+- :hammer_and_wrench: Free software advocate
 - :penguin: I use arch, btw
+- :eagle: Fly Eagles Fly!
 <!--
 **superimpp/superimpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

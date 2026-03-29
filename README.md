@@ -1,5 +1,4 @@
-- 🔬 post-training optimization for LLMs: pruning, PEFT, making models smaller and cheaper
-- 🧩 currently building a RAG system
-- 🎮 occasional indie game dev
-- 🐧 i use arch, btw
+- 🐧 linux systems developer. i use arch, btw
+- 🔬 my thesis was on making LLMs smaller without breaking them. currently building a RAG system that runs on local, limited hardware
+- 🎮 i spend more time getting old games to work on modern linux than actually playing them
 - 🦅 fly eagles fly
